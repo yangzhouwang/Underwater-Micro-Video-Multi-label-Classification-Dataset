@@ -4,6 +4,6 @@ This project is Underwater Video Multi-label Classification Dataset, which conta
 Link：https://pan.baidu.com/s/1NXWu4PyMpDmZ34ygvjcb2A?pwd=31ax 
 Extracted code：31ax 
 
-This sharing will only share some datasets, and all datasets will be shared after the official publication of the article
+
 
 
